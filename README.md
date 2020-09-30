@@ -7,7 +7,7 @@
 TEST CASES :<br>
 -----------------------------<br>
 
-#kindly run 8 puzzle problem on feasible input output state.<br>
+#kindly run 8 puzzle problem on feasible input, i.e. valid output state.<br>
 
 -----------------------------<br>
 python 8_puzzle_problem_BFS.py 1,2,3,4,5,6,7,8,0 1,2,3,4,5,6,7,8,0<br>
