@@ -1,7 +1,7 @@
 # 8-puzzle-problem
 
 #sys.argv[1] = initial state<br>
-#sys.argv[2] = initial state<br>
+#sys.argv[2] = final state<br>
 
 -----------------------------<br>
 TEST CASES :<br>
